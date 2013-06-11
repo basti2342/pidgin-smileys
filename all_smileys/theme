@@ -3,8 +3,7 @@ Description=Pidgin smileys
 Icon=talktohand.png
 Author=basti
 
-
-# All smileys
+[default]
 wink.png	;-) ;) :wink: ;^)
 happy.png	:) :-) :happy: =)
 excited.png	:-D :-d :D :d :excited: =D =d /:D
